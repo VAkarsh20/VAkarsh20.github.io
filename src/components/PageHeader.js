@@ -57,5 +57,3 @@ class PageHeader extends React.Component {
 }
 
 export default PageHeader;
-
-// <div>9:00 am – 6:00 pm</div>

@@ -11,21 +11,17 @@ function App() {
   return (
     <div className="body-content">
       <nav>
-        <img className="navlogo" src="./images/expo.png"></img>
-        <a href="https://www.facebook.com/EngineeringCouncilUIUC/">
-          <img className="sociallink" src="./images/facebook.png"></img>
+        <img className="navlogo" src="./images/illinois.png"></img>
+        <a href="https://github.com/VAkarsh20">
+          <img className="sociallink" src="./images/github.svg"></img>
         </a>
-        <a href="https://www.instagram.com/ec_illinois/?hl=en">
-          <img className="sociallink" src="./images/instagram.png"></img>
-        </a>
-        <a href="https://twitter.com/EC_UIUC">
-          <img className="sociallink" src="./images/twitter.png"></img>
+        <a href="https://www.linkedin.com/in/akarsh-v/">
+          <img className="sociallink" src="./images/linkedin.svg"></img>
         </a>
       </nav>
       <PageHeader />
       <Information />
       <Days />
-      <Virtual />
       <Volunteer />
       <Footer />
     </div>

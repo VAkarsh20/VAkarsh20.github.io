@@ -8,27 +8,7 @@ function Information() {
       <h1 id="content_header">About</h1>
       <div className="information">
         <div className="info">
-          Engineering Career Services and Engineering Employment EXPO
-          have joined forces to host the first virtual career fair at the University of Illinois.
-        </div>
-
-        <div className="facts_container">
-          <div className="fact">
-            <img className="icon" src={student}></img>
-            <p>
-              7,000+
-              <br />
-              Students
-            </p>
-          </div>
-          <div className="fact">
-            <img className="icon" src={company}></img>
-            <p>
-              200+
-              <br />
-              Companies
-            </p>
-          </div>
+        Akarsh is a BS-MCS Computer Science student at the University of Illinois at Urbana-Champaign currently interning for Capital One as a Software Engineering Intern. He has experience programming in Python, C/C++, and Java through internships and academia.
         </div>
       </div>
     </div>
